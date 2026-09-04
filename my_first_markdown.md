@@ -20,3 +20,10 @@ print(f"Hello, my name is {name} and I am {age} years old.")
 **Useful Resources:**
 
 - ([Markdown Link](https://www.markdownguide.org/basic-syntax/))
+
+|**Language**|**Difficulty**| **Use Case** | **Popularity** |
+|:-:         |:-:           |:-:                    |:-:|
+| Python     | Beginner     | Data Science, Web Dev | ⭐⭐⭐⭐⭐|
+| Javascript | Beginner     | Web Development| ⭐⭐⭐⭐⭐|
+| C++        | Advanced     | System Programming| ⭐⭐⭐|
+| R          | Intermediate | Statistics, Data Analysis| ⭐⭐⭐|
